@@ -1,0 +1,56 @@
+﻿<html>
+<title>add_item for STORE_B</title>
+<head></head>
+<div style="background-color:lightblUE; color:white; margin:20px; padding:20px;">
+
+<img src="mp.jpg"  style="width:75px;height:65px">
+
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+
+
+<font size ="9">
+PTC MESS MANAGEMENT
+</font>
+
+
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+&nbsp&nbsp
+
+
+<a href="sb.php"><button style="background-color:lightblue"><b>BACK</b></button></a>
+<a href="options.html"><button style="background-color:lightblue"><b>HOME PAGE</b></button></a>
+<button style="background-color:lightblue"><b>HELP</b></button>
+<button style="background-color:lightblue"><b>LOG OUT</b></button>
+
+
+</head>
+
+</div>
+
+
+<div style="background-color:white; color:white; margin:20px; padding:0.01px;">
+</div>
+
+</head>
+<div style="background-color:lightblue; color:black; margin:20px; padding:30px;">
+
+<font size = "6">
+
+
+<body>
+<center>
+
+<form action = "additemforstoreb.php" method = "post" id = "formac">
+<font size = "6"> आयटम नाव प्रविष्ट करा: <input type = "textbox" name = "newitem"><br><br>
+<input type = "submit" style="width:80;height:40;font-size:18" name = "sub" class="buttons" value = "सादर" id="btnsubmit">
+
+
+ 
+</font>
+</form>
+
+</center><br><br><br><br><br><br>
+</div>
+</body>
+</html>

@@ -1,0 +1,71 @@
+﻿<html>
+<head>
+<title>Add Cadet Information</title>
+</head>
+<style type="text/css">
+body { background-image:url(bg1.jpg);
+
+   background-repeat:no-repeat;
+
+   background-size:cover; 
+	
+}
+</style><body><center>
+<h1><b> <i>खालील भरा</b></i></h1></center>
+<form action="it.php" id = "form2" name="form2" method="get">
+
+<font size = "5">
+ <p align="left">
+बॅच आयडी: <input type = "textbox" name = "bid"><br><br><br>
+
+नाव: <input type = "textbox" name = "fname"><br><br><br>
+आडनाव: <input type = "textbox" name = "lname"><br><br><br>
+वडील नाव: <input type = "textbox" name = "faname"><br><br><br>
+माता नाव: <input type = "textbox" name = "mname"><br><br><br>
+वय: <input type = "textbox" name = "agee"><br><br><br>
+शहर: <input type = "textbox" name = "ct"><br><br><br>
+राज्य: <select name = "st">
+  <option value="Andhra Pradesh">आंध्र प्रदेश</option>
+  <option value="Arunachal Pradesh">अरुणाचल प्रदेश</option>
+  <option value="Assam">आसाम</option>
+  <option value="Bihar">बिहार</option>
+  <option value="Chandigarh">चंदीगड</option>
+  <option value="Chattisgarh">छत्तीसगड</option>
+  <option value="Goa">गोवा</option>
+  <option value="Gujarat">गुजरात</option>
+  <option value="Haryana">हरियाणा</option>
+  <option value="Himachal Pradesh">हिमाचल प्रदेश</option>
+  <option value="Jammu & Kashmir">जम्मू आणि काश्मीर</option>
+  <option value="Jharkand">झारखंड</option>
+  <option value="Karnataka">कर्नाटक</option>
+  <option value="Kerala">केरळ</option>
+  <option value="Madhya Pradesh">मध्य प्रदेश</option>
+  <option value="Maharashtra">महाराष्ट्र</option>
+  <option value="Manipur">मणिपूर</option>
+  <option value="Meghalaya">मेघालय</option>
+  <option value="Mizoram">मिझोराम</option>
+  <option value="Nagaland">नागालँड</option>
+  <option value="Orissa">ओरिसा</option>
+  <option value="Punjab">पंजाब</option>
+  <option value="Rajasthan">राजस्थान</option>
+  <option value="Sikkim">सिक्कीम</option>
+  <option value="Tamil Nadu">तामिळनाडू</option>
+  <option value="Telangana">तेलंगण</option>
+  <option value="Tripura">त्रिपुरा</option>
+  <option value="Uttar Pradesh">उत्तर प्रदेश</option>
+  <option value="Uttarakhand">उत्तराखंड</option>
+  <option value="West Bengal">पश्चिम बंगाल</option>
+</select><br><br><br> 
+जिल्हा: <input type = "textbox" name = "dis"><br><br><br>
+
+सामील होत वर्ष: <input type = "textbox" name = "yoj"><br>
+<b>लक्षात ठेवा : खालील स्वरूपात तारीख प्रविष्ट करू <i>म्हणजे वर्ष 2014</i></b>
+ <br><br>
+</p>
+<center><br>
+<input name="Submit" type="submit" style="width:80;height:60" id="btnsubmit" value="सादर" />  &nbsp &nbsp &nbsp &nbsp <a href="options.html"><input type="button" style="width:80;height:60" name="btnback" value="परत" /></a> &nbsp &nbsp &nbsp &nbsp <a href="index.html"><input type="button" style="width:80;height:60" name="btnhome" value="प्रारंभ पृष्ठ" /></a>
+</center>
+</font>
+</form>
+</body>
+</html>

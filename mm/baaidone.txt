@@ -1,0 +1,54 @@
+﻿
+<html>
+<head>
+<title>baai store insertion done</title>
+
+<div style="background-color:lightblUE; color:white; margin:20px; padding:20px;">
+
+<img src="mp.jpg"  style="width:75px;height:65px">
+
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+
+
+<font size ="9">
+PTC MESS MANAGEMENT
+</font>
+
+
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+&nbsp&nbsp
+
+
+
+<a href="se.php"><button style="background-color:lightblue"><b>BACK</b></button></a>
+<a href="options.html"><button style="background-color:lightblue"><b>HOME PAGE</b></button></a>
+<button style="background-color:lightblue"><b>HELP</b></button>
+<button style="background-color:lightblue"><b>LOG OUT</b></button>
+
+
+</head>
+
+</div>
+
+
+<div style="background-color:white; color:white; margin:20px; padding:0.01px;">
+</div>
+
+
+
+<div style="background-color:lightblue; color:black; margin:20px; padding:30px;">
+
+<center>
+<font size = "6"><br><br><br><br>
+माहिती यशस्वीपणे केला
+<br><br><br><br><br><br>
+
+</font>
+</center>
+
+</div>
+
+</body>
+</html>
+
